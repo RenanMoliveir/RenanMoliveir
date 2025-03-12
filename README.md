@@ -17,7 +17,7 @@ Minha missão é unir conhecimento científico e tecnologia para gerar soluçõe
   Projeto desenvolvido para análise e entendimento de vendas do banco de dados Bike Store, utilizando Power BI. Principais desafios:<br> 
   - Modelagem de dados eficientes para análise.<br>
   - Estatística descritiva com as principais características de vendas da base de dados Bike Store.<br>
+  <a href="https://github.com/RenanMoliveir/Analise_de_dados_BikeStore_Power-BI_ATUALIZAN-O/tree/main">Clique aqui para ver o repositório</a>
 </p>
-
 
 
