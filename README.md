@@ -7,6 +7,7 @@ Minha missão é unir conhecimento científico e tecnologia para gerar soluçõe
 - SQL
 - Power BI
 - Python
+##
+## 📚Projetos (em proceso de documentação)
+## Análise de dados Bike Store com Power BI
 
-- Clique para ver um [Projeto](https://github.com/RenanMoliveir/Portifolio_Analise_BikeStore) 📈
-  
