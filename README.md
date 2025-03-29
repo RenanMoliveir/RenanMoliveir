@@ -8,7 +8,7 @@ Minha missão é unir conhecimento científico e tecnologia para gerar soluçõe
 - Power BI
 - Python
 ##
-## 📚Projetos (em proceso de documentação)
+## 📚Projetos (em documentação)
 ## Análise de dados Bike Store com Power BI
 
 
