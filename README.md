@@ -27,9 +27,13 @@ Desenvolvimento de modelo supervisionado para predição de doença cardiovascul
 - Avaliação com métricas (R², RMSE, matriz de confusão)  
 - Interpretação de variáveis relevantes  
 
+<img src="https://github.com/user-attachments/assets/e7dd4b36-d802-4a29-9319-366692f8b881" width="400"/>
+
 🔗 [Ver projeto completo no GitHub](https://github.com/RenanMoliveir/Data_Science)
 
 > Status: concluído
+
+---
 
 ### Clusterização de Exames Laboratoriais
 
@@ -40,5 +44,7 @@ Aplicação de aprendizado não supervisionado para identificação de padrões 
 - Redução de dimensionalidade (931 → 71 variáveis)  
 - Aplicação de K-Means  
 - Análise de clusters  
+
+<img src="https://github.com/user-attachments/assets/2a05cc09-bfc2-4471-ad6d-9c03c2e7584e" width="400"/>
 
 > Status: em desenvolvimento
