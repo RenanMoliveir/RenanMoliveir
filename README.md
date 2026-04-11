@@ -27,7 +27,7 @@ Desenvolvimento de modelo supervisionado para predição de doença cardiovascul
 - Avaliação com métricas (R², RMSE, matriz de confusão)  
 - Interpretação de variáveis relevantes  
 
-🔗 [Ver projeto]([https://github.com/SEU-USUARIO/nome-do-repositorio](https://github.com/RenanMoliveir/Data_Science))
+🔗 [Ver projeto completo no GitHub](https://github.com/RenanMoliveir/Data_Science)
 
 > Status: concluído
 
