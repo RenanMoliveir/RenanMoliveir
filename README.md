@@ -1,25 +1,44 @@
-## Olá! Sou o Isac Renan
-### 🚀Biomédico e Pós-Graduando em Data Science
-Atuante na área de análises clínicas, estou constantemente aprimorando minhas habilidades em análise de dados, explorando técnicas e ferramentas para transformar informações em insights valiosos.<br>
-Minha missão é unir conhecimento científico e tecnologia para gerar soluções estratégicas e baseadas em dados.
-##
-### 📊 Ferramentas
+# Isac Renan
+
+Biomédico e pós-graduando em Data Science, com atuação na área de análises clínicas.
+
+Tenho foco em análise de dados e desenvolvimento de modelos de Machine Learning, aplicando técnicas de tratamento, engenharia de features e modelagem para extrair padrões e gerar valor a partir dos dados.
+
+Minha experiência no ambiente laboratorial contribui para uma leitura crítica dos dados, conectando contexto clínico com análise quantitativa.
+
+---
+
+## Ferramentas
+
+- Python (Pandas, Scikit-learn)
 - SQL
 - Power BI
-- Python
-##
-## 📚Projetos (em documentação)
-## Análise de dados Bike Store com Power BI
 
+---
 
-<p align="left">
-  <a href="https://github.com/user-attachments/assets/4d5f4bcb-4ffe-4d13-a13e-bee66d7b9128" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4d5f4bcb-4ffe-4d13-a13e-bee66d7b9128" alt="DashOverview" width="500" align="left" style="margin-right: 15px;"/>
-  </a>
-  Projeto desenvolvido para análise e entendimento de vendas do banco de dados Bike Store, utilizando Power BI. Principais desafios:<br> 
-  - Modelagem de dados eficientes para análise.<br>
-  - Estatística descritiva com as principais características de vendas da base de dados Bike Store.<br>
-  <a href="https://github.com/RenanMoliveir/Analise_de_dados_BikeStore_Power-BI_ATUALIZAN-O/tree/main">Clique aqui para ver o repositório</a>
-</p>
+## Projetos
 
+### Predição de Doença Cardiovascular (DCV)
 
+Desenvolvimento de modelo supervisionado para predição de doença cardiovascular com base em variáveis clínicas.
+
+- Análise exploratória e tratamento de dados  
+- Regressão logística e Random Forest  
+- Avaliação com métricas (R², RMSE, matriz de confusão)  
+- Interpretação de variáveis relevantes  
+
+🔗 [Ver projeto](https://github.com/SEU-USUARIO/nome-do-repositorio)
+
+> Status: concluído
+
+### Clusterização de Exames Laboratoriais
+
+Aplicação de aprendizado não supervisionado para identificação de padrões em exames laboratoriais.
+
+- Tratamento de dados não estruturados  
+- Engenharia de features com One-Hot Encoding  
+- Redução de dimensionalidade (931 → 71 variáveis)  
+- Aplicação de K-Means  
+- Análise de clusters  
+
+> Status: em desenvolvimento
