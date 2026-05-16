@@ -47,4 +47,12 @@ Aplicação de aprendizado não supervisionado para identificação de padrões 
 
 <img src="https://github.com/user-attachments/assets/2a05cc09-bfc2-4471-ad6d-9c03c2e7584e" width="400"/>
 
+---
+
+## Dashboard
+
+<img src="https://raw.githubusercontent.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais/main/image-2.png" width="700"/>
+
+🔗 [Ver projeto completo no GitHub](https://github.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais)
+
 > Status: em desenvolvimento
