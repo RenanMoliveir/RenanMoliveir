@@ -10,49 +10,127 @@ Minha experiência no ambiente laboratorial contribui para uma leitura crítica 
 
 ## Ferramentas
 
-- Python (Pandas, Scikit-learn)
+- Python (Pandas, Scikit-Learn)
 - SQL
 - Power BI
+- DAX
+- Git & GitHub
 
 ---
 
-## Projetos
+#  Projetos
 
-### Predição de Doença Cardiovascular (DCV)
+## LabInsight | PerformanceLab
+
+Dashboard operacional laboratorial desenvolvido para monitoramento de desempenho, SLA e TAT (Turnaround Time) em ambiente laboratorial.
+
+### Principais funcionalidades
+
+- Monitoramento de SLA
+- Análise de TAT
+- Indicadores operacionais
+- Análise por categoria (Apoio, Crítico e Urgente)
+- Operação horária
+- Drillthrough para investigação de atrasos
+- Tooltips analíticas
+- Navegação entre páginas
+
+### Tecnologias
+
+- Python
+- Pandas
+- Power BI
+- DAX
+
+### Dashboard
+
+<img width="1200" height="768" alt="image" src="https://github.com/user-attachments/assets/0552403d-6646-4d10-9ad8-5314dc09d5c2" />
+
+### Dashboard Online
+
+🔗 https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ffc&autoAuth=true&ctid=b142a9f4-1ae0-4309-913b-cc6fe2468213&actionBarEnabled=true
+
+### Repositório
+
+🔗 https://github.com/RenanMoliveir/LabInsight-PerformanceLab
+
+> Status: em desenvolvimento
+
+---
+
+##  Predição de Doença Cardiovascular (DCV)
 
 Desenvolvimento de modelo supervisionado para predição de doença cardiovascular com base em variáveis clínicas.
 
-- Análise exploratória e tratamento de dados  
-- Regressão logística e Random Forest  
-- Avaliação com métricas (R², RMSE, matriz de confusão)  
-- Interpretação de variáveis relevantes  
+### Principais etapas
+
+- Análise exploratória dos dados
+- Tratamento de dados
+- Regressão Logística
+- Random Forest
+- Avaliação de métricas
+- Interpretação de resultados
 
 <img src="https://github.com/user-attachments/assets/e7dd4b36-d802-4a29-9319-366692f8b881" width="400"/>
 
-🔗 [Ver projeto completo no GitHub](https://github.com/RenanMoliveir/Data_Science)
+### Repositório
+
+🔗 https://github.com/RenanMoliveir/Data_Science
 
 > Status: concluído
 
 ---
 
-### Clusterização de Exames Laboratoriais
+##  Clusterização de Exames Laboratoriais
 
-Aplicação de aprendizado não supervisionado para identificação de padrões em exames laboratoriais.
+Aplicação de técnicas de Machine Learning não supervisionado para identificação de padrões em exames laboratoriais.
 
-- Tratamento de dados não estruturados  
-- Engenharia de features com One-Hot Encoding  
-- Redução de dimensionalidade (931 → 71 variáveis)  
-- Aplicação de K-Means  
-- Análise de clusters  
+### Principais etapas
+
+- Tratamento de dados não estruturados
+- Engenharia de Features
+- One-Hot Encoding
+- Redução de dimensionalidade
+- K-Means
+- Interpretação de clusters
 
 <img src="https://github.com/user-attachments/assets/2a05cc09-bfc2-4471-ad6d-9c03c2e7584e" width="400"/>
 
----
-
-## Dashboard
+### Dashboard
 
 <img src="https://raw.githubusercontent.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais/main/image-2.png" width="700"/>
 
-🔗 [Ver projeto completo no GitHub](https://github.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais)
+### Repositório
 
-> Status: em desenvolvimento
+🔗 https://github.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais
+
+> Status: concluído
+
+---
+
+## 🎯 Áreas de Interesse
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Dados em Saúde
+- Power BI
+- Python
+- SQL
+- Estatística Aplicada
+
+---
+
+## 📫 Contato
+
+### GitHub
+
+🔗 https://github.com/RenanMoliveir
+
+### LinkedIn
+
+🔗 https://www.linkedin.com/in/isac-renan-oliveira
+
+---
+
+⭐ Sempre buscando transformar dados em informação e informação em decisão.
