@@ -44,7 +44,7 @@ Dashboard operacional laboratorial desenvolvido para monitoramento de desempenho
 
 ### Dashboard
 
-<img width="1200" height="768" alt="image" src="https://github.com/user-attachments/assets/0552403d-6646-4d10-9ad8-5314dc09d5c2" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0552403d-6646-4d10-9ad8-5314dc09d5c2" />
 
 ### Dashboard Online
 
