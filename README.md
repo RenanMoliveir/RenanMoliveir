@@ -52,7 +52,7 @@ Dashboard operacional laboratorial desenvolvido para monitoramento de desempenho
 
 ### Repositório
 
-🔗 https://github.com/RenanMoliveir/LabInsight-PerformanceLab
+🔗 [https://github.com/RenanMoliveir/LabInsight-PerformanceLab](https://github.com/RenanMoliveir/indicadore_laboratoriais_operacional)
 
 > Status: em desenvolvimento
 
