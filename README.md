@@ -1,6 +1,6 @@
 # Isac Renan
 
-Biomédico e pós-graduando em Data Science, com atuação na área de análises clínicas.
+Biomédico e pós-graduado em Data Science, com atuação na área de análises clínicas.
 
 Tenho foco em análise de dados e desenvolvimento de modelos de Machine Learning, aplicando técnicas de tratamento, engenharia de features e modelagem para extrair padrões e gerar valor a partir dos dados.
 
